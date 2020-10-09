@@ -22,8 +22,7 @@ try
 	//if(v[5]=7)
 	//cout<<"Success!\n";
 	
-        //bool c = true
-	//if(c)
+	//if(true)
 	//cout<< "Success!\n";
 	//else
 	//cout<< "Fail!\n";
